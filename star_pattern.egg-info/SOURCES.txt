@@ -1,0 +1,7 @@
+setup.py
+libname/__init__.py
+libname/star_pattern.py
+star_pattern.egg-info/PKG-INFO
+star_pattern.egg-info/SOURCES.txt
+star_pattern.egg-info/dependency_links.txt
+star_pattern.egg-info/top_level.txt
